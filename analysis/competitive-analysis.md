@@ -26,6 +26,11 @@ Both Trello and Jira excel at visualizing work, but they operate on a "Pull" or 
 - **Trello:** Relies entirely on a human manager to visually assess which column looks emptiest and drag the card over.
 - **Jira:** Offers Work-In-Progress (WIP) limits, but if a pod hits its limit, Jira simply highlights the column in red; it does not automatically reroute the next incoming task to an available pod.
 
-## 3. Conclusion (Gaps Identified)
+## 3. Visual Evidence
+
+![Trello Manual Assignment Limitation](./trello-board.png)
+_Caption: Existing generic Kanban boards require a human manager to manually assess pod capacity and drag cards, creating bottlenecks and severe workload imbalances._
+
+## 4. Conclusion (Gaps Identified)
 
 This analysis confirms a critical gap in the market: existing solutions lack **real-time capacity tracking and algorithmic routing**. They rely on human intervention to balance workloads, which causes the 5.1 standard deviation imbalance observed at Unwir Agency. FlowRoute's algorithmic routing engine provides unique, necessary value over standard drag-and-drop tools.
